@@ -15,7 +15,7 @@ var finalScoreSpan = document.getElementById("final-score");
 var submitBtn = document.getElementById("submit");
 var startBtn = document.getElementById("start");
 
-// Quiz questions (replace this array with your questions from questions.js)
+// Quiz questions 
 var questions = [
   // Example question format
   {
